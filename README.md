@@ -56,8 +56,8 @@ Both algorithms are evaluated using accuracy scores and their performance is com
 
 | Algorithm | Accuracy |
 |---|---|
-| KNN | Add your result |
-| Decision Tree | Add your result |
+| KNN | 0.63 |
+| Decision Tree | 0.781 |
 
 ## Prediction
 
